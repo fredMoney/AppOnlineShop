@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppOnlineShop</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up_text">Nu ai cont? Fă-ți unul aici!</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_text">Ai deja cont? Intră în cont!</string>
+    <string name="display_name_error">Nume invalid</string>
+    <string name="name">Name</string>
+</resources>
